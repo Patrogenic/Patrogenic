@@ -3,9 +3,9 @@ I am a web developer familar with Node, Express, MongoDB, JS, CSS, HTML, Digital
 
 - 👀 I’m interested in all things software, but am primarily focused on the web at the moment. I like learning and reading books. I like to journal and reflect and think.  
 - 🌱 I’m currently learning:  
--web design principles. I feel like this is a weak point of mine and projects are judged at a glance by how they look.  
--how to become more comfortable using organizational principles (SOLID) so I can take advantage of more code reuse and better organized code.  
--how to make unit testing a habit  
+-Web design principles. I feel like this is a weak point of mine and projects are judged at a glance by how they look.  
+-How to become more comfortable using organizational principles (SOLID) so I can take advantage of more code reuse and better organized code.  
+-How to make unit testing a habit  
 -Vue  
 - 📫 How to reach me:   
 -Email: patrick.elzinga14@yahoo.com
