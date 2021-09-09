@@ -1,5 +1,5 @@
 
-I am a web developer familar with Node, Express, MongoDB, JS, CSS, HTML, Digital Ocean, and related development tools such as webpack.
+I am a web developer familiar with JavaScript, Angular, TypeScript, Java, CSS, HTML, Node, Express, MongoDB, and Git.
 
 - 📫 How to reach me:   
 -Email: patrick.elzinga14@yahoo.com
